@@ -10,9 +10,14 @@
   "author": "Amar Srivastava",
   "license": "ISC",
   "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "dot-env": "^0.0.1",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "framer-motion": "^11.3.30",
+    "mongoose": "^8.5.4",
     "nodemon": "^3.1.4"
   }
 }
